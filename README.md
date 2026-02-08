@@ -43,6 +43,7 @@ sales-data-analysis/
 │   └── sales_dashboard_preview.png
 ├── README.md
 └── requirements.txt
+```
 
 ---
 
