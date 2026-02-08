@@ -30,17 +30,17 @@ The dataset contains retail transaction data with the following attributes:
 ---
 
 ## Project Structure
+```text
 sales-data-analysis/
-│
 ├── data/
-│ └── SampleSuperstore.csv
+│   └── SampleSuperstore.csv
 ├── notebooks/
-│ └── sales_data_analysis.ipynb
+│   └── sales_data_analysis.ipynb
 ├── powerbi/
-│ ├── sales_performance_dashboard.pbix
-│ └── sales_performance_dashboard.pdf
+│   ├── sales_performance_dashboard.pbix
+│   └── sales_performance_dashboard.pdf
 ├── images/
-│ └── sales_dashboard_preview.png
+│   └── sales_dashboard_preview.png
 ├── README.md
 └── requirements.txt
 
